@@ -1,1 +1,2 @@
-This is a test for my first GitHub repository
+This was a test for my first GitHub repository
+Second comit
